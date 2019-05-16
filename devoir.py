@@ -1,3 +1,4 @@
+# retund generer,modifier,recuperer,afficher
 def verifieUseFonctionalite():
 
     while True:
