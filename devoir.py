@@ -1,9 +1,11 @@
+# il retourne une valeur de celle choisie 
 def verifieUseFonctionalite():
 
     while True:
         value = input('choisir parmi les fontion suivante  celle qui vous convient (generer,modifier,recuperer,afficher) tous les mots de passe:   ')
         if value == 'generer':
             print("vous vouler generer un mot de passe")
+            print("je suis en classe")
             break
         elif value == 'modifier':
             print("vous vouler modifier un mot de passe")
